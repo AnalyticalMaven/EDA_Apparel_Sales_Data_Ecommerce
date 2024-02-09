@@ -1,0 +1,1 @@
+As an e-commerce analyst, I had the privilege of delving into two vital datasets: the Dress Attribute Dataset and Dress Sales Dataset. These datasets provide a wealth of information on women’s apparel sales from the past year. This will walk you through the process of conducting Exploratory Data Analysis (EDA) on these datasets and highlight key discoveries.
